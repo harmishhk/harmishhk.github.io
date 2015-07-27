@@ -1,7 +1,5 @@
 ---
-layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: typewriter.jpg
+title: harmishhk
+redirect_to:
+  - http://homepages.laas.fr/hkhambha
 ---
