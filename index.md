@@ -1,5 +1,5 @@
 ---
-title: harmishhk
-redirect_to:
-  - http://homepages.laas.fr/hkhambha
+layout: home
+title: "recent posts"
+tags: [about, blog, harmish khambhaita, harmishhk]
 ---
